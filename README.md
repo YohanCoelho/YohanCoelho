@@ -1,7 +1,7 @@
    ### <i> Olá! Eu sou o Yohan Coelho </i>
 
-- 🔭 Hoje trabalho com RH...
-- 🌱 Estudando <i>JAVA/Back-end/SpringBoot</i> - <i>Front-end com AngularJS</i>
+- 🔛 Hoje trabalho com RH...
+- 📚 Estudando <i>JAVA/Back-end/SpringBoot</i> - <i>Front-end com AngularJS</i>
 - 📫 <b>Contrate-me no email: yohancoelho08@outlook.com</b>
 
 <div>
