@@ -3,18 +3,12 @@
 - 🔛 Hoje trabalho com suporte Service Desk...
 - 📚 Estudando <i> - Python e Power BI - </i>
 - 📫 <b>Contrate-me no email: yohancoelho08@outlook.com</b>
-
-<div>
-  <a href="https://github.com/YohanCoelho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YohanCoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohanCoelho&layout=compact&langs_count=7&theme=dark"/>
-</div>  
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/color/512/power-bi.png"> 
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+  <img align="center" alt="Power BI" height="50" width="60" src="https://img.icons8.com/color/512/power-bi.png"> 
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  <img align="center" alt="Html5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
   <img align="right" alt="Coding"  height="230" width="240" src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif">  
 </div>
   
